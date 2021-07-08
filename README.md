@@ -3,6 +3,9 @@
 
 The board integrates the control electronics required to operate a robot. Sensors and actuators can be connected directly.
 
+* **Dimensions:**
+  * 104 mm x 80 mm
+
 * **Power supply:**
   * The board is supplied with a 7.5V voltage (battery or LiPo).
 
