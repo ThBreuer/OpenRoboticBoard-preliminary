@@ -27,7 +27,6 @@ This file is released under the MIT License.
 #include "Com/Hardware/Analog/DAC.cpp"
 #include "Com/Hardware/Timer/Encoder.cpp"
 #include "Com/Hardware/I2C/I2Cmaster.cpp"
-#include "Com/Hardware/I2C/I2Cslave.cpp"
 #include "Com/Hardware/Memory/Memory.cpp"
 #include "Com/Hardware/Port/ExtInt.cpp"
 #include "Com/Hardware/Port/Port.cpp"

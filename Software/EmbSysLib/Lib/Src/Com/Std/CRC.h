@@ -3,6 +3,8 @@
 \file   CRC.h
 \author Thomas Breuer
 \date   18.10.2012
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

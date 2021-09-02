@@ -3,6 +3,8 @@
 \file   devMotorDirection.cpp
 \author Thomas Breuer
 \date   22.02.2019
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

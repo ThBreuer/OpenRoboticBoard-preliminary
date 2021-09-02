@@ -3,6 +3,8 @@
 \file   Module/Download.h
 \author Thomas Breuer
 \date   04.05.2016
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

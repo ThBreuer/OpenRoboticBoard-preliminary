@@ -3,6 +3,8 @@
 \file   USBinterfClassHID.cpp
 \author Thomas Breuer
 \date   01.06.2012
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

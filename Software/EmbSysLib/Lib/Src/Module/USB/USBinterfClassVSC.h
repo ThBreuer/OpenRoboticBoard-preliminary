@@ -3,6 +3,8 @@
 \file   USBinterfClassVSC.h
 \author Thomas Breuer
 \date   02.03.2016
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

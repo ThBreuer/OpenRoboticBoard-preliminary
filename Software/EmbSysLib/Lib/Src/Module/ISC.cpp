@@ -4,6 +4,8 @@
 \author Thomas Breuer
 \date   09.02.2016
 
+This file is released under the MIT License.
+
 \brief  Summary of ISC classes (Inter system communication)
 */
 

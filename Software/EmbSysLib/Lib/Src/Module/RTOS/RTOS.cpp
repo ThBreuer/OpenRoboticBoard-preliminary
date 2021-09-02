@@ -3,6 +3,8 @@
 \file   Module/RTOS/RTOS.cpp
 \author Thomas Breuer
 \date   14.02.2011, 09.03.2016
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

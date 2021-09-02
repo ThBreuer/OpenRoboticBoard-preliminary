@@ -3,6 +3,8 @@
 \file   dataPointer.h
 \author Thomas Breuer
 \date   21.11.2015 
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

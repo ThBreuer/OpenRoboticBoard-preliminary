@@ -3,6 +3,8 @@
 \file   RTOS_Scheduler.h
 \author Thomas Breuer
 \date   17.12.2014, 09.03.2016
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

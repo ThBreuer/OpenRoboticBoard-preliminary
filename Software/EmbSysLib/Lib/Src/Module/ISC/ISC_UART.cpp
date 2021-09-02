@@ -3,6 +3,8 @@
 \file   Module/ISC_UART.cpp
 \author Thomas Breuer
 \date   11.12.2014, 17.03.2016
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************

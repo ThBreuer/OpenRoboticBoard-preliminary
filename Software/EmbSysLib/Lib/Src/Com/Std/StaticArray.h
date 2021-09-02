@@ -3,6 +3,8 @@
 \file   StaticArray.h
 \author Thomas Breuer
 \date   03.01.2018
+
+This file is released under the MIT License.
 */
 
 //*******************************************************************
