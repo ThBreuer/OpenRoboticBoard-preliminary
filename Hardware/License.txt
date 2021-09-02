@@ -1,0 +1,6 @@
+Copyright 2021 Thomas Breuer
+
+Die Baupläne und Dokumentationen der Hardware sind unter der 
+  Creative Commons-Lizenz CC BY-SA 4.0
+lizenziert. 
+Für die ausformulierten Lizenzbedingungen besuchen Sie bitte die URL https://creativecommons.org/licenses/by-sa/4.0/
