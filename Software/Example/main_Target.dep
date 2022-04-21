@@ -1,0 +1,43 @@
+Dependencies for Project 'main', Target 'Target': (DO NOT MODIFY !)
+F (..\Firmware-ORB-M\Common\Src\Local\entry.cpp)(0x6020F210)(--cpp -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Src -I..\Firmware-ORB-M -I..\Middleware\Src --diag_suppress=1035-I C:\Bin\Keil_v4\ARM\RV31\INC-I C:\Bin\Keil_v4\ARM\CMSIS\Include-I C:\Bin\Keil_v4\ARM\Inc\ST\STM32F4xx-DUSE_UART -DSTM32F405xx -D__ARM_STM32F405__ -D_HSE_CLK="8000" -D_HSE_BYPASS_OFF -DHSE_VALUE="8000000" -DHSI_VALUE="8000000" -D_KEIL -DSTM32F40_41xxx-o .\bin\entry.o --omf_browse .\bin\entry.crf --depend .\bin\entry.d)
+I (..\Firmware-ORB-M\Common/Src/ORBlocal.h)(0x6020F210)
+I (..\Firmware-ORB-M\Common/Src/ORB.h)(0x6022968E)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\stdarg.h)(0x51C827C4)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\inttypes.h)(0x51C827C4)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+F (..\Firmware-ORB-M\Common\Src\Local\main.cpp)(0x6020F210)(--cpp -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I.\Src -I..\Firmware-ORB-M -I..\Middleware\Src --diag_suppress=1035-I C:\Bin\Keil_v4\ARM\RV31\INC-I C:\Bin\Keil_v4\ARM\CMSIS\Include-I C:\Bin\Keil_v4\ARM\Inc\ST\STM32F4xx-DUSE_UART -DSTM32F405xx -D__ARM_STM32F405__ -D_HSE_CLK="8000" -D_HSE_BYPASS_OFF -DHSE_VALUE="8000000" -DHSI_VALUE="8000000" -D_KEIL -DSTM32F40_41xxx-o .\bin\main.o --omf_browse .\bin\main.crf --depend .\bin\main.d)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\stdio.h)(0x51C827C4)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\string.h)(0x51C827C4)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\inttypes.h)(0x51C827C4)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C827C4)
+I (..\Firmware-ORB-M\Common/Src/ORBlocal.h)(0x6020F210)
+I (..\Firmware-ORB-M\Common/Src/ORB.h)(0x6022968E)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\stdarg.h)(0x51C827C4)
+I (..\Middleware\Src\Value.h)(0x6020F222)
+I (..\Middleware\Src\Memory.h)(0x6020F222)
+I (..\Middleware\Src\Timer.h)(0x6020F222)
+I (..\Middleware\Src\Motor.h)(0x60229902)
+I (..\Middleware\Src\DoppelMotor.h)(0x6020F222)
+I (..\Middleware\Src\Sensor.h)(0x602298BD)
+I (..\Middleware\Src\SensorColorTCS3472.h)(0x6020F222)
+I (..\Middleware\Src\SensorDigital.h)(0x6020F222)
+I (..\Middleware\Src\SensorExtra.h)(0x6020F222)
+I (..\Middleware\Src\EncoderServo.h)(0x6020F222)
+I (C:\Bin\Keil_v4\ARM\ARMCC\include\math.h)(0x51C827C4)
+I (..\Middleware\Src\ModelServo.h)(0x6020F222)
+I (..\Middleware\Src\Drive.h)(0x6020F222)
+I (..\Middleware\Src\Monitor.h)(0x6020F222)
+I (.\Src\Application.h)(0x60242AC4)
+F (..\Firmware-ORB-M\Common\Src\Local\startup.s)(0x6020F210)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Bin\Keil_v4\ARM\RV31\INC-I C:\Bin\Keil_v4\ARM\CMSIS\Include-I C:\Bin\Keil_v4\ARM\Inc\ST\STM32F4xx--list .\bin\keil\startup.lst --xref -o .\bin\startup.o --depend .\bin\startup.d)
+F (..\Middleware\Src\Drive.h)(0x6020F222)()
+F (..\Middleware\Src\EncoderServo.h)(0x6020F222)()
+F (..\Middleware\Src\Memory.h)(0x6020F222)()
+F (..\Middleware\Src\ModelServo.h)(0x6020F222)()
+F (..\Middleware\Src\Monitor.h)(0x6020F222)()
+F (..\Middleware\Src\Motor.h)(0x60229902)()
+F (..\Middleware\Src\Sensor.h)(0x602298BD)()
+F (..\Middleware\Src\SensorDigital.h)(0x6020F222)()
+F (..\Middleware\Src\SensorExtra.h)(0x6020F222)()
+F (..\Middleware\Src\Timer.h)(0x6020F222)()
+F (..\Middleware\Src\Value.h)(0x6020F222)()
+F (.\Src\Application.h)(0x60242AC4)()
